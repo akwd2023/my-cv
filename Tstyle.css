@@ -1,0 +1,51 @@
+body{
+  background-color:rgb(246, 250, 250);
+}
+
+.upperdiv{
+  margin:50px 100px 100px 300px;
+  
+}
+
+.asmamaw{
+  width:150px;
+  height:150px;
+  float:left;
+  border-radius:50%;
+  margin: 0px 20px;
+}
+.middlediv{
+  margin:50px 100px 50px 500px;
+}
+.lowerdiv{
+  margin:50px 100px 50px 500px;
+}
+.lowest{
+  background-color:cadetblue;
+  margin:50px 0px 0px 0px;
+  padding:10px 500px;
+}
+hr{
+  border:dotted skyblue;
+  border-width:5px;
+  width:5%;
+  border-bottom:none;
+}
+.myname{
+  color:darkslategray;
+  margin:0px 50px 10px 10px;
+}
+contact:hover{
+  color:rgb(63, 75, 179);
+  margin:100px;
+
+}
+p{
+  color:darkslategray;
+}
+.contact{
+  color:bisque;
+}
+.address{
+  color:bisque;
+}
